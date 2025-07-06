@@ -27,12 +27,12 @@
 
 ## 🚀 Live Demo
 
-[View Live Demo](https://your-username.github.io/programming-jokes/) *(Replace with your actual GitHub Pages URL)*
+[View Live Demo](https://sufyanali-7.github.io/Programming-Jokes/) 
 
 ## 📸 Screenshots
 
 <div align="center">
-  <img src="https://via.placeholder.com/800x500/667eea/ffffff?text=Programming+Jokes+App" alt="Programming Jokes App Screenshot" width="80%">
+  <img src="https://i.postimg.cc/SQHH3R4C/programming-joke.png" alt="Programming Jokes App Screenshot" width="80%">
   <p><em>Clean, modern interface with beautiful animations</em></p>
 </div>
 
